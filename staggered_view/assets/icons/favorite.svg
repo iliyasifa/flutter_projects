@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="28" height="28">
+
+<g transform="matrix(0.51851857 0 0 0.51851857 0 0)">
+	<g transform="matrix(0.2109375 0 0 0.2109375 0 0)">
+		<g transform="matrix(0.72 0 0 0.72 128 128)">
+			<g transform="matrix(3.89 0 0 3.89 -175.05 -175.05)">
+                <path transform="matrix(1 0 0 1 0 0)"  d="M7.486 13.502C 17.468 3.5199995 33.651 3.5199995 43.633 13.502L43.633 13.502L45 14.869C 51.895 37.751 51.259 61.961 45 87.163L45 87.163L26.927 69.089C 26.927 69.089 26.927 69.089 26.927 69.089L26.927 69.089L7.4869995 49.648994C -2.495 39.667 -2.495 23.484 7.486 13.502z" stroke="none" fill="#D6493E" fill-rule="nonzero" />
+                <path transform="matrix(1 0 0 1 0 0)"  d="M82.514 13.502C 72.532 3.5199995 56.349 3.5199995 46.367 13.502L46.367 13.502L45 14.869L45 87.163L63.072998 69.090004C 63.072998 69.090004 63.072998 69.090004 63.072998 69.090004L63.072998 69.090004L82.513 49.65C 92.495 39.667 92.495 23.484 82.514 13.502z" stroke="none" fill="#D75A4A" fill-rule="nonzero" />
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
